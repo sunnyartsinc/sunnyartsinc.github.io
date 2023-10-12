@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2016 &#8211; 阳光艺术团 Sunny Arts</title>
+	<atom:link href="/en/tag/2016/feed/" rel="self" type="application/rss+xml" />
+	<link>/en</link>
+	<description></description>
+	<lastbuilddate>Thu, 12 Oct 2023 14:51:38 +0000</lastbuilddate>
+	<language>en-AU</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/10/logo_true@0.1x.png</url>
+	<title>2016 &#8211; 阳光艺术团 Sunny Arts</title>
+	<link>/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>2016 新春音乐会</title>
+		<link>/en/2016-%e6%96%b0%e6%98%a5%e9%9f%b3%e4%b9%90%e4%bc%9a/</link>
+					<comments>/en/2016-%e6%96%b0%e6%98%a5%e9%9f%b3%e4%b9%90%e4%bc%9a/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubdate>Wed, 11 Oct 2023 14:40:19 +0000</pubdate>
+				<category><![CDATA[音乐会]]></category>
+		<category><![CDATA[2016]]></category>
+		<guid ispermalink="false">/?p=61</guid>
+
+					<description><![CDATA[活动照片 节目单]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">活动照片</h3>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="800" height="600" data-id="65" src="/wp-content/uploads/2023/10/IMG_2379.jpg" alt="" class="wp-image-65" srcset="/wp-content/uploads/2023/10/IMG_2379.jpg 800w, /wp-content/uploads/2023/10/IMG_2379-300x225.jpg 300w, /wp-content/uploads/2023/10/IMG_2379-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="800" height="516" data-id="64" src="/wp-content/uploads/2023/10/IMG_2386.jpg" alt="" class="wp-image-64" srcset="/wp-content/uploads/2023/10/IMG_2386.jpg 800w, /wp-content/uploads/2023/10/IMG_2386-300x194.jpg 300w, /wp-content/uploads/2023/10/IMG_2386-768x495.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></figure>
+</figure>
+
+
+
+<h3 class="wp-block-heading">节目单</h3>
+
+
+
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="724" data-id="62" src="/wp-content/uploads/2023/10/节目单1_2-1024x724.jpg" alt="" class="wp-image-62" srcset="/wp-content/uploads/2023/10/节目单1_2-1024x724.jpg 1024w, /wp-content/uploads/2023/10/节目单1_2-300x212.jpg 300w, /wp-content/uploads/2023/10/节目单1_2-768x543.jpg 768w, /wp-content/uploads/2023/10/节目单1_2-1536x1086.jpg 1536w, /wp-content/uploads/2023/10/节目单1_2-2048x1448.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="724" data-id="63" src="/wp-content/uploads/2023/10/节目单2_2-1024x724.jpg" alt="" class="wp-image-63" srcset="/wp-content/uploads/2023/10/节目单2_2-1024x724.jpg 1024w, /wp-content/uploads/2023/10/节目单2_2-300x212.jpg 300w, /wp-content/uploads/2023/10/节目单2_2-768x543.jpg 768w, /wp-content/uploads/2023/10/节目单2_2-1536x1086.jpg 1536w, /wp-content/uploads/2023/10/节目单2_2-2048x1448.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
+]]></content:encoded>
+					
+					<wfw:commentrss>/en/2016-%e6%96%b0%e6%98%a5%e9%9f%b3%e4%b9%90%e4%bc%9a/feed/</wfw:commentrss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
