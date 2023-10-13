@@ -19,6 +19,27 @@ Newspaperex is distributed under the terms of the GNU General Public License v3
 Newspaperex is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
 Underscores is distributed under the terms of the GNU GPL v2 or later.
 */
+
+.col-md-3 {
+	display: none;
+}
+
+.top-right-area {
+	display:none;
+}
+
+.col-sm-6 {
+	min-width: 100%;
+}
+
+.mg-blog-date {
+	display: none;
+}
+
+a.auth {
+	display: none;
+}
+
 a:focus {
     outline: 1px solid;
 }

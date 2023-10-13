@@ -12,13 +12,13 @@
 	<atom:link href="/category/%E7%A0%94%E8%AE%A8%E4%BC%9A/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 12 Oct 2023 14:51:49 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Oct 2023 15:03:08 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/10/logo_true@0.1x.png</url>
@@ -33,18 +33,20 @@
 					<comments>/2015-%e6%9e%97%e5%88%99%e5%be%90%e5%8f%b2%e8%bf%b9%e7%a0%94%e8%ae%a8%e4%bc%9a/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 11 Oct 2023 14:39:26 +0000</pubDate>
+		<pubDate>Thu, 01 Jan 2015 00:00:26 +0000</pubDate>
 				<category><![CDATA[研讨会]]></category>
 		<category><![CDATA[2015]]></category>
 		<guid isPermaLink="false">/?p=58</guid>
 
-					<description><![CDATA[活动照片]]></description>
+					<description><![CDATA[精彩瞬间]]></description>
 										<content:encoded><![CDATA[
-<h3 class="wp-block-heading">活动照片</h3>
+<h3 class="wp-block-heading">精彩瞬间</h3>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="768" height="1024" src="/wp-content/uploads/2023/10/IMG_1828-768x1024.jpg" alt="" class="wp-image-59" srcset="/wp-content/uploads/2023/10/IMG_1828-768x1024.jpg 768w, /wp-content/uploads/2023/10/IMG_1828-225x300.jpg 225w, /wp-content/uploads/2023/10/IMG_1828-1152x1536.jpg 1152w, /wp-content/uploads/2023/10/IMG_1828-1536x2048.jpg 1536w, /wp-content/uploads/2023/10/IMG_1828-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="768" height="1024" data-id="199" src="/wp-content/uploads/2023/10/IMG_1828-768x1024.jpg" alt="" class="wp-image-199" srcset="/wp-content/uploads/2023/10/IMG_1828-768x1024.jpg 768w, /wp-content/uploads/2023/10/IMG_1828-225x300.jpg 225w, /wp-content/uploads/2023/10/IMG_1828-1152x1536.jpg 1152w, /wp-content/uploads/2023/10/IMG_1828-1536x2048.jpg 1536w, /wp-content/uploads/2023/10/IMG_1828-9x12.jpg 9w, /wp-content/uploads/2023/10/IMG_1828-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+</figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2015-%e6%9e%97%e5%88%99%e5%be%90%e5%8f%b2%e8%bf%b9%e7%a0%94%e8%ae%a8%e4%bc%9a/feed/</wfw:commentRss>

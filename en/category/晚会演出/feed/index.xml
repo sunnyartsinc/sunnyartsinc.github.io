@@ -12,13 +12,13 @@
 	<atom:link href="/en/category/%E6%99%9A%E4%BC%9A%E6%BC%94%E5%87%BA/feed/" rel="self" type="application/rss+xml" />
 	<link>/en</link>
 	<description></description>
-	<lastbuilddate>Thu, 12 Oct 2023 14:56:50 +0000</lastbuilddate>
+	<lastbuilddate>Fri, 13 Oct 2023 15:21:13 +0000</lastbuilddate>
 	<language>en-AU</language>
 	<sy:updateperiod>
 	hourly	</sy:updateperiod>
 	<sy:updatefrequency>
 	1	</sy:updatefrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/10/logo_true@0.1x.png</url>
@@ -28,68 +28,254 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>2024 龙年春晚</title>
+		<link>/en/2024-%e9%be%99%e5%b9%b4%e6%98%a5%e6%99%9a/</link>
+					<comments>/en/2024-%e9%be%99%e5%b9%b4%e6%98%a5%e6%99%9a/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubdate>Fri, 13 Oct 2023 14:17:52 +0000</pubdate>
+				<category><![CDATA[即将到来]]></category>
+		<category><![CDATA[晚会演出]]></category>
+		<category><![CDATA[精彩看点]]></category>
+		<category><![CDATA[2024]]></category>
+		<guid ispermalink="false">/?p=178</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-file"><object class="wp-block-file__embed" data="/wp-content/uploads/2023/10/明天会更好-2024龙年春晚-V10.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of 明天会更好-2024龙年春晚-V10."></object><a id="wp-block-file--media-7aa4d02b-0e9a-47a4-9ae0-603827236435" href="/wp-content/uploads/2023/10/明天会更好-2024龙年春晚-V10.pdf">明天会更好-2024龙年春晚-V10</a><a href="/wp-content/uploads/2023/10/明天会更好-2024龙年春晚-V10.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-7aa4d02b-0e9a-47a4-9ae0-603827236435">下载</a></div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentrss>/en/2024-%e9%be%99%e5%b9%b4%e6%98%a5%e6%99%9a/feed/</wfw:commentrss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>2018 年墨尔本春节联欢晚会</title>
 		<link>/en/2018-%e6%98%a5%e6%99%9a/</link>
 					<comments>/en/2018-%e6%98%a5%e6%99%9a/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubdate>Wed, 11 Oct 2023 14:45:35 +0000</pubdate>
+		<pubdate>Mon, 01 Jan 2018 00:00:35 +0000</pubdate>
 				<category><![CDATA[晚会演出]]></category>
+		<category><![CDATA[精彩看点]]></category>
 		<category><![CDATA[2018]]></category>
 		<guid ispermalink="false">/?p=81</guid>
 
-					<description><![CDATA[海报 活动照片 节目单]]></description>
+					<description><![CDATA[海报 精彩瞬间 节目单]]></description>
 										<content:encoded><![CDATA[
 <h3 class="wp-block-heading">海报</h3>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="583" src="/wp-content/uploads/2023/10/开场前天幕-1-1024x583.jpg" alt="" class="wp-image-96" srcset="/wp-content/uploads/2023/10/开场前天幕-1-1024x583.jpg 1024w, /wp-content/uploads/2023/10/开场前天幕-1-300x171.jpg 300w, /wp-content/uploads/2023/10/开场前天幕-1-768x437.jpg 768w, /wp-content/uploads/2023/10/开场前天幕-1-1536x874.jpg 1536w, /wp-content/uploads/2023/10/开场前天幕-1-2048x1166.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<h3 class="wp-block-heading">活动照片</h3>
-
-
-
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" data-id="83" src="/wp-content/uploads/2023/10/IMG_0045-1024x683.jpg" alt="" class="wp-image-83" srcset="/wp-content/uploads/2023/10/IMG_0045-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_0045-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_0045-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_0045-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_0045-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="583" data-id="279" src="/wp-content/uploads/2023/10/开场前天幕-1-1024x583.jpg" alt="" class="wp-image-279" srcset="/wp-content/uploads/2023/10/开场前天幕-1-1024x583.jpg 1024w, /wp-content/uploads/2023/10/开场前天幕-1-300x171.jpg 300w, /wp-content/uploads/2023/10/开场前天幕-1-768x437.jpg 768w, /wp-content/uploads/2023/10/开场前天幕-1-1536x874.jpg 1536w, /wp-content/uploads/2023/10/开场前天幕-1-2048x1166.jpg 2048w, /wp-content/uploads/2023/10/开场前天幕-1-18x10.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" data-id="82" src="/wp-content/uploads/2023/10/IMG_0065-1024x683.jpg" alt="" class="wp-image-82" srcset="/wp-content/uploads/2023/10/IMG_0065-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_0065-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_0065-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_0065-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_0065-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<h3 class="wp-block-heading">精彩瞬间</h3>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="85" src="/wp-content/uploads/2023/10/IMG_0076-1024x683.jpg" alt="" class="wp-image-85" srcset="/wp-content/uploads/2023/10/IMG_0076-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_0076-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_0076-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_0076-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_0076-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" data-id="234" src="/wp-content/uploads/2023/10/DSC3834-1024x683.jpg" alt="" class="wp-image-234" srcset="/wp-content/uploads/2023/10/DSC3834-1024x683.jpg 1024w, /wp-content/uploads/2023/10/DSC3834-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC3834-768x512.jpg 768w, /wp-content/uploads/2023/10/DSC3834-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/DSC3834-2048x1365.jpg 2048w, /wp-content/uploads/2023/10/DSC3834-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="84" src="/wp-content/uploads/2023/10/IMG_0110-1024x683.jpg" alt="" class="wp-image-84" srcset="/wp-content/uploads/2023/10/IMG_0110-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_0110-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_0110-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_0110-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_0110-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="715" data-id="230" src="/wp-content/uploads/2023/10/D1cover-1024x715.jpg" alt="" class="wp-image-230" srcset="/wp-content/uploads/2023/10/D1cover-1024x715.jpg 1024w, /wp-content/uploads/2023/10/D1cover-300x209.jpg 300w, /wp-content/uploads/2023/10/D1cover-768x536.jpg 768w, /wp-content/uploads/2023/10/D1cover-18x12.jpg 18w, /wp-content/uploads/2023/10/D1cover.jpg 1125w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="86" src="/wp-content/uploads/2023/10/IMG_0131-1024x683.jpg" alt="" class="wp-image-86" srcset="/wp-content/uploads/2023/10/IMG_0131-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_0131-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_0131-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_0131-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_0131-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="561" data-id="229" src="/wp-content/uploads/2023/10/D2-1024x561.jpg" alt="" class="wp-image-229" srcset="/wp-content/uploads/2023/10/D2-1024x561.jpg 1024w, /wp-content/uploads/2023/10/D2-300x164.jpg 300w, /wp-content/uploads/2023/10/D2-768x421.jpg 768w, /wp-content/uploads/2023/10/D2-18x10.jpg 18w, /wp-content/uploads/2023/10/D2.jpg 1125w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="87" src="/wp-content/uploads/2023/10/IMG_0145-1024x683.jpg" alt="" class="wp-image-87" srcset="/wp-content/uploads/2023/10/IMG_0145-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_0145-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_0145-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_0145-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_0145-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="714" height="1024" data-id="231" src="/wp-content/uploads/2023/10/D3-714x1024.jpg" alt="" class="wp-image-231" srcset="/wp-content/uploads/2023/10/D3-714x1024.jpg 714w, /wp-content/uploads/2023/10/D3-209x300.jpg 209w, /wp-content/uploads/2023/10/D3-768x1101.jpg 768w, /wp-content/uploads/2023/10/D3-1071x1536.jpg 1071w, /wp-content/uploads/2023/10/D3-8x12.jpg 8w, /wp-content/uploads/2023/10/D3.jpg 1125w" sizes="(max-width: 714px) 100vw, 714px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="88" src="/wp-content/uploads/2023/10/IMG_0147-1024x683.jpg" alt="" class="wp-image-88" srcset="/wp-content/uploads/2023/10/IMG_0147-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_0147-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_0147-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_0147-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_0147-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="815" height="1024" data-id="232" src="/wp-content/uploads/2023/10/D4-815x1024.jpg" alt="" class="wp-image-232" srcset="/wp-content/uploads/2023/10/D4-815x1024.jpg 815w, /wp-content/uploads/2023/10/D4-239x300.jpg 239w, /wp-content/uploads/2023/10/D4-768x965.jpg 768w, /wp-content/uploads/2023/10/D4-10x12.jpg 10w, /wp-content/uploads/2023/10/D4.jpg 1125w" sizes="(max-width: 815px) 100vw, 815px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="89" src="/wp-content/uploads/2023/10/IMG_9913-1024x683.jpg" alt="" class="wp-image-89" srcset="/wp-content/uploads/2023/10/IMG_9913-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_9913-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_9913-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_9913-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_9913-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="693" height="1024" data-id="233" src="/wp-content/uploads/2023/10/D5-693x1024.jpg" alt="" class="wp-image-233" srcset="/wp-content/uploads/2023/10/D5-693x1024.jpg 693w, /wp-content/uploads/2023/10/D5-203x300.jpg 203w, /wp-content/uploads/2023/10/D5-768x1135.jpg 768w, /wp-content/uploads/2023/10/D5-1040x1536.jpg 1040w, /wp-content/uploads/2023/10/D5-8x12.jpg 8w, /wp-content/uploads/2023/10/D5.jpg 1125w" sizes="(max-width: 693px) 100vw, 693px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="91" src="/wp-content/uploads/2023/10/DSC3834-1024x683.jpg" alt="" class="wp-image-91" srcset="/wp-content/uploads/2023/10/DSC3834-1024x683.jpg 1024w, /wp-content/uploads/2023/10/DSC3834-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC3834-768x512.jpg 768w, /wp-content/uploads/2023/10/DSC3834-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/DSC3834-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="235" src="/wp-content/uploads/2023/10/D6-1024x683.jpg" alt="" class="wp-image-235" srcset="/wp-content/uploads/2023/10/D6-1024x683.jpg 1024w, /wp-content/uploads/2023/10/D6-300x200.jpg 300w, /wp-content/uploads/2023/10/D6-768x512.jpg 768w, /wp-content/uploads/2023/10/D6-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/D6-2048x1365.jpg 2048w, /wp-content/uploads/2023/10/D6-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="90" src="/wp-content/uploads/2023/10/IMG_0029-1024x683.jpg" alt="" class="wp-image-90" srcset="/wp-content/uploads/2023/10/IMG_0029-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_0029-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_0029-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_0029-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_0029-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="578" data-id="236" src="/wp-content/uploads/2023/10/DSC_0552_00001-1024x578.jpg" alt="" class="wp-image-236" srcset="/wp-content/uploads/2023/10/DSC_0552_00001-1024x578.jpg 1024w, /wp-content/uploads/2023/10/DSC_0552_00001-300x169.jpg 300w, /wp-content/uploads/2023/10/DSC_0552_00001-768x434.jpg 768w, /wp-content/uploads/2023/10/DSC_0552_00001-1536x868.jpg 1536w, /wp-content/uploads/2023/10/DSC_0552_00001-2048x1157.jpg 2048w, /wp-content/uploads/2023/10/DSC_0552_00001-18x10.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="549" data-id="237" src="/wp-content/uploads/2023/10/DSC_0564_00001-1024x549.jpg" alt="" class="wp-image-237" srcset="/wp-content/uploads/2023/10/DSC_0564_00001-1024x549.jpg 1024w, /wp-content/uploads/2023/10/DSC_0564_00001-300x161.jpg 300w, /wp-content/uploads/2023/10/DSC_0564_00001-768x412.jpg 768w, /wp-content/uploads/2023/10/DSC_0564_00001-1536x823.jpg 1536w, /wp-content/uploads/2023/10/DSC_0564_00001-2048x1098.jpg 2048w, /wp-content/uploads/2023/10/DSC_0564_00001-18x10.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="847" data-id="238" src="/wp-content/uploads/2023/10/DSC_0566_00001-1024x847.jpg" alt="" class="wp-image-238" srcset="/wp-content/uploads/2023/10/DSC_0566_00001-1024x847.jpg 1024w, /wp-content/uploads/2023/10/DSC_0566_00001-300x248.jpg 300w, /wp-content/uploads/2023/10/DSC_0566_00001-768x635.jpg 768w, /wp-content/uploads/2023/10/DSC_0566_00001-1536x1271.jpg 1536w, /wp-content/uploads/2023/10/DSC_0566_00001-2048x1694.jpg 2048w, /wp-content/uploads/2023/10/DSC_0566_00001-15x12.jpg 15w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="546" data-id="239" src="/wp-content/uploads/2023/10/DSC_0617_00001-1024x546.jpg" alt="" class="wp-image-239" srcset="/wp-content/uploads/2023/10/DSC_0617_00001-1024x546.jpg 1024w, /wp-content/uploads/2023/10/DSC_0617_00001-300x160.jpg 300w, /wp-content/uploads/2023/10/DSC_0617_00001-768x410.jpg 768w, /wp-content/uploads/2023/10/DSC_0617_00001-1536x820.jpg 1536w, /wp-content/uploads/2023/10/DSC_0617_00001-2048x1093.jpg 2048w, /wp-content/uploads/2023/10/DSC_0617_00001-18x10.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="775" data-id="240" src="/wp-content/uploads/2023/10/DSC_0642_00001-1024x775.jpg" alt="" class="wp-image-240" srcset="/wp-content/uploads/2023/10/DSC_0642_00001-1024x775.jpg 1024w, /wp-content/uploads/2023/10/DSC_0642_00001-300x227.jpg 300w, /wp-content/uploads/2023/10/DSC_0642_00001-768x581.jpg 768w, /wp-content/uploads/2023/10/DSC_0642_00001-1536x1163.jpg 1536w, /wp-content/uploads/2023/10/DSC_0642_00001-2048x1550.jpg 2048w, /wp-content/uploads/2023/10/DSC_0642_00001-16x12.jpg 16w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="787" height="1024" data-id="241" src="/wp-content/uploads/2023/10/DSC_0706_00001-787x1024.jpg" alt="" class="wp-image-241" srcset="/wp-content/uploads/2023/10/DSC_0706_00001-787x1024.jpg 787w, /wp-content/uploads/2023/10/DSC_0706_00001-231x300.jpg 231w, /wp-content/uploads/2023/10/DSC_0706_00001-768x999.jpg 768w, /wp-content/uploads/2023/10/DSC_0706_00001-1181x1536.jpg 1181w, /wp-content/uploads/2023/10/DSC_0706_00001-1575x2048.jpg 1575w, /wp-content/uploads/2023/10/DSC_0706_00001-9x12.jpg 9w, /wp-content/uploads/2023/10/DSC_0706_00001-scaled.jpg 1969w" sizes="(max-width: 787px) 100vw, 787px" /></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="blob:/181d1c71-58c2-4bbd-b7e2-1406fc1ad0fe" alt=""/></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="blob:/e98e4605-b030-4b49-908f-8d9d9f5aa594" alt=""/></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="618" data-id="244" src="/wp-content/uploads/2023/10/DSC_0747_00001-1024x618.jpg" alt="" class="wp-image-244" srcset="/wp-content/uploads/2023/10/DSC_0747_00001-1024x618.jpg 1024w, /wp-content/uploads/2023/10/DSC_0747_00001-300x181.jpg 300w, /wp-content/uploads/2023/10/DSC_0747_00001-768x463.jpg 768w, /wp-content/uploads/2023/10/DSC_0747_00001-1536x927.jpg 1536w, /wp-content/uploads/2023/10/DSC_0747_00001-2048x1236.jpg 2048w, /wp-content/uploads/2023/10/DSC_0747_00001-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="670" data-id="245" src="/wp-content/uploads/2023/10/DSC_0750_00001-1024x670.jpg" alt="" class="wp-image-245" srcset="/wp-content/uploads/2023/10/DSC_0750_00001-1024x670.jpg 1024w, /wp-content/uploads/2023/10/DSC_0750_00001-300x196.jpg 300w, /wp-content/uploads/2023/10/DSC_0750_00001-768x502.jpg 768w, /wp-content/uploads/2023/10/DSC_0750_00001-1536x1004.jpg 1536w, /wp-content/uploads/2023/10/DSC_0750_00001-2048x1339.jpg 2048w, /wp-content/uploads/2023/10/DSC_0750_00001-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="639" data-id="246" src="/wp-content/uploads/2023/10/DSC_0759_00001-1024x639.jpg" alt="" class="wp-image-246" srcset="/wp-content/uploads/2023/10/DSC_0759_00001-1024x639.jpg 1024w, /wp-content/uploads/2023/10/DSC_0759_00001-300x187.jpg 300w, /wp-content/uploads/2023/10/DSC_0759_00001-768x479.jpg 768w, /wp-content/uploads/2023/10/DSC_0759_00001-1536x959.jpg 1536w, /wp-content/uploads/2023/10/DSC_0759_00001-2048x1278.jpg 2048w, /wp-content/uploads/2023/10/DSC_0759_00001-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="593" data-id="247" src="/wp-content/uploads/2023/10/DSC_0760_00001-1024x593.jpg" alt="" class="wp-image-247" srcset="/wp-content/uploads/2023/10/DSC_0760_00001-1024x593.jpg 1024w, /wp-content/uploads/2023/10/DSC_0760_00001-300x174.jpg 300w, /wp-content/uploads/2023/10/DSC_0760_00001-768x445.jpg 768w, /wp-content/uploads/2023/10/DSC_0760_00001-1536x890.jpg 1536w, /wp-content/uploads/2023/10/DSC_0760_00001-2048x1187.jpg 2048w, /wp-content/uploads/2023/10/DSC_0760_00001-18x10.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="248" src="/wp-content/uploads/2023/10/DSC_0795_00001-1024x683.jpg" alt="" class="wp-image-248" srcset="/wp-content/uploads/2023/10/DSC_0795_00001-1024x683.jpg 1024w, /wp-content/uploads/2023/10/DSC_0795_00001-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_0795_00001-768x512.jpg 768w, /wp-content/uploads/2023/10/DSC_0795_00001-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/DSC_0795_00001-2048x1365.jpg 2048w, /wp-content/uploads/2023/10/DSC_0795_00001-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="554" data-id="249" src="/wp-content/uploads/2023/10/DSC_0826_00001-1024x554.jpg" alt="" class="wp-image-249" srcset="/wp-content/uploads/2023/10/DSC_0826_00001-1024x554.jpg 1024w, /wp-content/uploads/2023/10/DSC_0826_00001-300x162.jpg 300w, /wp-content/uploads/2023/10/DSC_0826_00001-768x415.jpg 768w, /wp-content/uploads/2023/10/DSC_0826_00001-1536x831.jpg 1536w, /wp-content/uploads/2023/10/DSC_0826_00001-2048x1107.jpg 2048w, /wp-content/uploads/2023/10/DSC_0826_00001-18x10.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="503" data-id="250" src="/wp-content/uploads/2023/10/DSC_0849_00001-1024x503.jpg" alt="" class="wp-image-250" srcset="/wp-content/uploads/2023/10/DSC_0849_00001-1024x503.jpg 1024w, /wp-content/uploads/2023/10/DSC_0849_00001-300x147.jpg 300w, /wp-content/uploads/2023/10/DSC_0849_00001-768x377.jpg 768w, /wp-content/uploads/2023/10/DSC_0849_00001-1536x754.jpg 1536w, /wp-content/uploads/2023/10/DSC_0849_00001-2048x1006.jpg 2048w, /wp-content/uploads/2023/10/DSC_0849_00001-18x9.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="635" height="1024" data-id="251" src="/wp-content/uploads/2023/10/DSC_0854_00001-635x1024.jpg" alt="" class="wp-image-251" srcset="/wp-content/uploads/2023/10/DSC_0854_00001-635x1024.jpg 635w, /wp-content/uploads/2023/10/DSC_0854_00001-186x300.jpg 186w, /wp-content/uploads/2023/10/DSC_0854_00001-768x1239.jpg 768w, /wp-content/uploads/2023/10/DSC_0854_00001-952x1536.jpg 952w, /wp-content/uploads/2023/10/DSC_0854_00001-1270x2048.jpg 1270w, /wp-content/uploads/2023/10/DSC_0854_00001-7x12.jpg 7w, /wp-content/uploads/2023/10/DSC_0854_00001-scaled.jpg 1587w" sizes="(max-width: 635px) 100vw, 635px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="555" data-id="252" src="/wp-content/uploads/2023/10/DSC_0876_00001-1024x555.jpg" alt="" class="wp-image-252" srcset="/wp-content/uploads/2023/10/DSC_0876_00001-1024x555.jpg 1024w, /wp-content/uploads/2023/10/DSC_0876_00001-300x162.jpg 300w, /wp-content/uploads/2023/10/DSC_0876_00001-768x416.jpg 768w, /wp-content/uploads/2023/10/DSC_0876_00001-1536x832.jpg 1536w, /wp-content/uploads/2023/10/DSC_0876_00001-2048x1109.jpg 2048w, /wp-content/uploads/2023/10/DSC_0876_00001-18x10.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="617" data-id="253" src="/wp-content/uploads/2023/10/DSC_0891_00001-1024x617.jpg" alt="" class="wp-image-253" srcset="/wp-content/uploads/2023/10/DSC_0891_00001-1024x617.jpg 1024w, /wp-content/uploads/2023/10/DSC_0891_00001-300x181.jpg 300w, /wp-content/uploads/2023/10/DSC_0891_00001-768x463.jpg 768w, /wp-content/uploads/2023/10/DSC_0891_00001-1536x926.jpg 1536w, /wp-content/uploads/2023/10/DSC_0891_00001-2048x1234.jpg 2048w, /wp-content/uploads/2023/10/DSC_0891_00001-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="639" data-id="254" src="/wp-content/uploads/2023/10/DSC_0900_00001-1024x639.jpg" alt="" class="wp-image-254" srcset="/wp-content/uploads/2023/10/DSC_0900_00001-1024x639.jpg 1024w, /wp-content/uploads/2023/10/DSC_0900_00001-300x187.jpg 300w, /wp-content/uploads/2023/10/DSC_0900_00001-768x479.jpg 768w, /wp-content/uploads/2023/10/DSC_0900_00001-1536x958.jpg 1536w, /wp-content/uploads/2023/10/DSC_0900_00001-2048x1278.jpg 2048w, /wp-content/uploads/2023/10/DSC_0900_00001-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="588" data-id="255" src="/wp-content/uploads/2023/10/DSC_0904_00001-1024x588.jpg" alt="" class="wp-image-255" srcset="/wp-content/uploads/2023/10/DSC_0904_00001-1024x588.jpg 1024w, /wp-content/uploads/2023/10/DSC_0904_00001-300x172.jpg 300w, /wp-content/uploads/2023/10/DSC_0904_00001-768x441.jpg 768w, /wp-content/uploads/2023/10/DSC_0904_00001-1536x882.jpg 1536w, /wp-content/uploads/2023/10/DSC_0904_00001-2048x1176.jpg 2048w, /wp-content/uploads/2023/10/DSC_0904_00001-18x10.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="673" data-id="256" src="/wp-content/uploads/2023/10/DSC_0907_00001-1024x673.jpg" alt="" class="wp-image-256" srcset="/wp-content/uploads/2023/10/DSC_0907_00001-1024x673.jpg 1024w, /wp-content/uploads/2023/10/DSC_0907_00001-300x197.jpg 300w, /wp-content/uploads/2023/10/DSC_0907_00001-768x505.jpg 768w, /wp-content/uploads/2023/10/DSC_0907_00001-1536x1010.jpg 1536w, /wp-content/uploads/2023/10/DSC_0907_00001-2048x1346.jpg 2048w, /wp-content/uploads/2023/10/DSC_0907_00001-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="618" data-id="257" src="/wp-content/uploads/2023/10/DSC_0937_00001-1024x618.jpg" alt="" class="wp-image-257" srcset="/wp-content/uploads/2023/10/DSC_0937_00001-1024x618.jpg 1024w, /wp-content/uploads/2023/10/DSC_0937_00001-300x181.jpg 300w, /wp-content/uploads/2023/10/DSC_0937_00001-768x464.jpg 768w, /wp-content/uploads/2023/10/DSC_0937_00001-1536x928.jpg 1536w, /wp-content/uploads/2023/10/DSC_0937_00001-2048x1237.jpg 2048w, /wp-content/uploads/2023/10/DSC_0937_00001-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="683" height="1024" data-id="258" src="/wp-content/uploads/2023/10/DSC_0940_00001-683x1024.jpg" alt="" class="wp-image-258" srcset="/wp-content/uploads/2023/10/DSC_0940_00001-683x1024.jpg 683w, /wp-content/uploads/2023/10/DSC_0940_00001-200x300.jpg 200w, /wp-content/uploads/2023/10/DSC_0940_00001-768x1152.jpg 768w, /wp-content/uploads/2023/10/DSC_0940_00001-1024x1536.jpg 1024w, /wp-content/uploads/2023/10/DSC_0940_00001-1365x2048.jpg 1365w, /wp-content/uploads/2023/10/DSC_0940_00001-8x12.jpg 8w, /wp-content/uploads/2023/10/DSC_0940_00001-scaled.jpg 1707w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="653" height="1024" data-id="259" src="/wp-content/uploads/2023/10/DSC_0941_00001-653x1024.jpg" alt="" class="wp-image-259" srcset="/wp-content/uploads/2023/10/DSC_0941_00001-653x1024.jpg 653w, /wp-content/uploads/2023/10/DSC_0941_00001-191x300.jpg 191w, /wp-content/uploads/2023/10/DSC_0941_00001-768x1205.jpg 768w, /wp-content/uploads/2023/10/DSC_0941_00001-979x1536.jpg 979w, /wp-content/uploads/2023/10/DSC_0941_00001-1305x2048.jpg 1305w, /wp-content/uploads/2023/10/DSC_0941_00001-8x12.jpg 8w, /wp-content/uploads/2023/10/DSC_0941_00001-scaled.jpg 1631w" sizes="(max-width: 653px) 100vw, 653px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="641" height="1024" data-id="260" src="/wp-content/uploads/2023/10/DSC_0943_00001-641x1024.jpg" alt="" class="wp-image-260" srcset="/wp-content/uploads/2023/10/DSC_0943_00001-641x1024.jpg 641w, /wp-content/uploads/2023/10/DSC_0943_00001-188x300.jpg 188w, /wp-content/uploads/2023/10/DSC_0943_00001-768x1227.jpg 768w, /wp-content/uploads/2023/10/DSC_0943_00001-961x1536.jpg 961w, /wp-content/uploads/2023/10/DSC_0943_00001-1282x2048.jpg 1282w, /wp-content/uploads/2023/10/DSC_0943_00001-8x12.jpg 8w, /wp-content/uploads/2023/10/DSC_0943_00001-scaled.jpg 1602w" sizes="(max-width: 641px) 100vw, 641px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="683" height="1024" data-id="261" src="/wp-content/uploads/2023/10/DSC_0948_00001-683x1024.jpg" alt="" class="wp-image-261" srcset="/wp-content/uploads/2023/10/DSC_0948_00001-683x1024.jpg 683w, /wp-content/uploads/2023/10/DSC_0948_00001-200x300.jpg 200w, /wp-content/uploads/2023/10/DSC_0948_00001-768x1152.jpg 768w, /wp-content/uploads/2023/10/DSC_0948_00001-1024x1536.jpg 1024w, /wp-content/uploads/2023/10/DSC_0948_00001-1365x2048.jpg 1365w, /wp-content/uploads/2023/10/DSC_0948_00001-8x12.jpg 8w, /wp-content/uploads/2023/10/DSC_0948_00001-scaled.jpg 1707w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="262" src="/wp-content/uploads/2023/10/DSC_0953_00001-1024x683.jpg" alt="" class="wp-image-262" srcset="/wp-content/uploads/2023/10/DSC_0953_00001-1024x683.jpg 1024w, /wp-content/uploads/2023/10/DSC_0953_00001-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_0953_00001-768x512.jpg 768w, /wp-content/uploads/2023/10/DSC_0953_00001-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/DSC_0953_00001-2048x1365.jpg 2048w, /wp-content/uploads/2023/10/DSC_0953_00001-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="691" data-id="263" src="/wp-content/uploads/2023/10/DSC_0957_00001-1024x691.jpg" alt="" class="wp-image-263" srcset="/wp-content/uploads/2023/10/DSC_0957_00001-1024x691.jpg 1024w, /wp-content/uploads/2023/10/DSC_0957_00001-300x202.jpg 300w, /wp-content/uploads/2023/10/DSC_0957_00001-768x518.jpg 768w, /wp-content/uploads/2023/10/DSC_0957_00001-1536x1037.jpg 1536w, /wp-content/uploads/2023/10/DSC_0957_00001-2048x1382.jpg 2048w, /wp-content/uploads/2023/10/DSC_0957_00001-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="636" height="1024" data-id="264" src="/wp-content/uploads/2023/10/DSC_0962_00001-636x1024.jpg" alt="" class="wp-image-264" srcset="/wp-content/uploads/2023/10/DSC_0962_00001-636x1024.jpg 636w, /wp-content/uploads/2023/10/DSC_0962_00001-186x300.jpg 186w, /wp-content/uploads/2023/10/DSC_0962_00001-768x1237.jpg 768w, /wp-content/uploads/2023/10/DSC_0962_00001-953x1536.jpg 953w, /wp-content/uploads/2023/10/DSC_0962_00001-1271x2048.jpg 1271w, /wp-content/uploads/2023/10/DSC_0962_00001-7x12.jpg 7w, /wp-content/uploads/2023/10/DSC_0962_00001-scaled.jpg 1589w" sizes="(max-width: 636px) 100vw, 636px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="694" data-id="265" src="/wp-content/uploads/2023/10/DSC_0968_00001-1024x694.jpg" alt="" class="wp-image-265" srcset="/wp-content/uploads/2023/10/DSC_0968_00001-1024x694.jpg 1024w, /wp-content/uploads/2023/10/DSC_0968_00001-300x203.jpg 300w, /wp-content/uploads/2023/10/DSC_0968_00001-768x520.jpg 768w, /wp-content/uploads/2023/10/DSC_0968_00001-1536x1041.jpg 1536w, /wp-content/uploads/2023/10/DSC_0968_00001-2048x1388.jpg 2048w, /wp-content/uploads/2023/10/DSC_0968_00001-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="266" src="/wp-content/uploads/2023/10/E-1024x683.jpg" alt="" class="wp-image-266" srcset="/wp-content/uploads/2023/10/E-1024x683.jpg 1024w, /wp-content/uploads/2023/10/E-300x200.jpg 300w, /wp-content/uploads/2023/10/E-768x512.jpg 768w, /wp-content/uploads/2023/10/E-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/E-2048x1365.jpg 2048w, /wp-content/uploads/2023/10/E-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="267" src="/wp-content/uploads/2023/10/IMG_0029-1024x683.jpg" alt="" class="wp-image-267" srcset="/wp-content/uploads/2023/10/IMG_0029-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_0029-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_0029-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_0029-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_0029-2048x1365.jpg 2048w, /wp-content/uploads/2023/10/IMG_0029-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="268" src="/wp-content/uploads/2023/10/IMG_0045-1024x683.jpg" alt="" class="wp-image-268" srcset="/wp-content/uploads/2023/10/IMG_0045-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_0045-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_0045-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_0045-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_0045-2048x1365.jpg 2048w, /wp-content/uploads/2023/10/IMG_0045-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="269" src="/wp-content/uploads/2023/10/IMG_0065-1024x683.jpg" alt="" class="wp-image-269" srcset="/wp-content/uploads/2023/10/IMG_0065-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_0065-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_0065-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_0065-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_0065-2048x1365.jpg 2048w, /wp-content/uploads/2023/10/IMG_0065-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="270" src="/wp-content/uploads/2023/10/IMG_0076-1024x683.jpg" alt="" class="wp-image-270" srcset="/wp-content/uploads/2023/10/IMG_0076-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_0076-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_0076-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_0076-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_0076-2048x1365.jpg 2048w, /wp-content/uploads/2023/10/IMG_0076-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="271" src="/wp-content/uploads/2023/10/IMG_0110-1024x683.jpg" alt="" class="wp-image-271" srcset="/wp-content/uploads/2023/10/IMG_0110-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_0110-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_0110-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_0110-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_0110-2048x1365.jpg 2048w, /wp-content/uploads/2023/10/IMG_0110-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="272" src="/wp-content/uploads/2023/10/IMG_0131-1024x683.jpg" alt="" class="wp-image-272" srcset="/wp-content/uploads/2023/10/IMG_0131-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_0131-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_0131-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_0131-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_0131-2048x1365.jpg 2048w, /wp-content/uploads/2023/10/IMG_0131-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="273" src="/wp-content/uploads/2023/10/IMG_0147-1024x683.jpg" alt="" class="wp-image-273" srcset="/wp-content/uploads/2023/10/IMG_0147-1024x683.jpg 1024w, /wp-content/uploads/2023/10/IMG_0147-300x200.jpg 300w, /wp-content/uploads/2023/10/IMG_0147-768x512.jpg 768w, /wp-content/uploads/2023/10/IMG_0147-1536x1024.jpg 1536w, /wp-content/uploads/2023/10/IMG_0147-2048x1365.jpg 2048w, /wp-content/uploads/2023/10/IMG_0147-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="797" height="1024" data-id="274" src="/wp-content/uploads/2023/10/IMG_5165-2-797x1024.jpg" alt="" class="wp-image-274" srcset="/wp-content/uploads/2023/10/IMG_5165-2-797x1024.jpg 797w, /wp-content/uploads/2023/10/IMG_5165-2-233x300.jpg 233w, /wp-content/uploads/2023/10/IMG_5165-2-768x987.jpg 768w, /wp-content/uploads/2023/10/IMG_5165-2-9x12.jpg 9w, /wp-content/uploads/2023/10/IMG_5165-2.jpg 1125w" sizes="(max-width: 797px) 100vw, 797px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="797" height="1024" data-id="275" src="/wp-content/uploads/2023/10/IMG_5165-797x1024.jpg" alt="" class="wp-image-275" srcset="/wp-content/uploads/2023/10/IMG_5165-797x1024.jpg 797w, /wp-content/uploads/2023/10/IMG_5165-233x300.jpg 233w, /wp-content/uploads/2023/10/IMG_5165-768x987.jpg 768w, /wp-content/uploads/2023/10/IMG_5165-9x12.jpg 9w, /wp-content/uploads/2023/10/IMG_5165.jpg 1125w" sizes="(max-width: 797px) 100vw, 797px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="577" height="1024" data-id="276" src="/wp-content/uploads/2023/10/IMG_9425-577x1024.jpg" alt="" class="wp-image-276" srcset="/wp-content/uploads/2023/10/IMG_9425-577x1024.jpg 577w, /wp-content/uploads/2023/10/IMG_9425-169x300.jpg 169w, /wp-content/uploads/2023/10/IMG_9425-768x1364.jpg 768w, /wp-content/uploads/2023/10/IMG_9425-865x1536.jpg 865w, /wp-content/uploads/2023/10/IMG_9425-7x12.jpg 7w, /wp-content/uploads/2023/10/IMG_9425.jpg 1125w" sizes="(max-width: 577px) 100vw, 577px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="577" height="1024" data-id="277" src="/wp-content/uploads/2023/10/IMG_9427-577x1024.jpg" alt="" class="wp-image-277" srcset="/wp-content/uploads/2023/10/IMG_9427-577x1024.jpg 577w, /wp-content/uploads/2023/10/IMG_9427-169x300.jpg 169w, /wp-content/uploads/2023/10/IMG_9427-768x1364.jpg 768w, /wp-content/uploads/2023/10/IMG_9427-865x1536.jpg 865w, /wp-content/uploads/2023/10/IMG_9427-7x12.jpg 7w, /wp-content/uploads/2023/10/IMG_9427.jpg 1125w" sizes="(max-width: 577px) 100vw, 577px" /></figure>
 </figure>
 
 
@@ -116,51 +302,86 @@
 					<comments>/en/2017-%e6%98%a5%e6%99%9a/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubdate>Wed, 11 Oct 2023 14:42:14 +0000</pubdate>
+		<pubdate>Sun, 01 Jan 2017 00:00:14 +0000</pubdate>
 				<category><![CDATA[晚会演出]]></category>
+		<category><![CDATA[精彩看点]]></category>
 		<category><![CDATA[2017]]></category>
 		<guid ispermalink="false">/?p=70</guid>
 
-					<description><![CDATA[海报 活动照片 节目单]]></description>
+					<description><![CDATA[海报 精彩瞬间 节目单]]></description>
 										<content:encoded><![CDATA[
 <h3 class="wp-block-heading">海报</h3>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="725" height="1024" src="/wp-content/uploads/2023/10/开场前天幕-725x1024.jpg" alt="" class="wp-image-78" srcset="/wp-content/uploads/2023/10/开场前天幕-725x1024.jpg 725w, /wp-content/uploads/2023/10/开场前天幕-212x300.jpg 212w, /wp-content/uploads/2023/10/开场前天幕-768x1085.jpg 768w, /wp-content/uploads/2023/10/开场前天幕-1087x1536.jpg 1087w, /wp-content/uploads/2023/10/开场前天幕-1450x2048.jpg 1450w, /wp-content/uploads/2023/10/开场前天幕-scaled.jpg 1812w" sizes="(max-width: 725px) 100vw, 725px" /></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="725" height="1024" data-id="209" src="/wp-content/uploads/2023/10/开场前天幕-725x1024.jpg" alt="" class="wp-image-209" srcset="/wp-content/uploads/2023/10/开场前天幕-725x1024.jpg 725w, /wp-content/uploads/2023/10/开场前天幕-212x300.jpg 212w, /wp-content/uploads/2023/10/开场前天幕-768x1085.jpg 768w, /wp-content/uploads/2023/10/开场前天幕-1087x1536.jpg 1087w, /wp-content/uploads/2023/10/开场前天幕-1450x2048.jpg 1450w, /wp-content/uploads/2023/10/开场前天幕-8x12.jpg 8w, /wp-content/uploads/2023/10/开场前天幕-scaled.jpg 1812w" sizes="(max-width: 725px) 100vw, 725px" /></figure>
+</figure>
 
 
 
-<h3 class="wp-block-heading">活动照片</h3>
+<h3 class="wp-block-heading">精彩瞬间</h3>
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-3 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="682" data-id="72" src="/wp-content/uploads/2023/10/DSC_7770-1024x682.jpg" alt="" class="wp-image-72" srcset="/wp-content/uploads/2023/10/DSC_7770-1024x682.jpg 1024w, /wp-content/uploads/2023/10/DSC_7770-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_7770-768x511.jpg 768w, /wp-content/uploads/2023/10/DSC_7770-1536x1022.jpg 1536w, /wp-content/uploads/2023/10/DSC_7770-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="2017墨尔本春晚 ,1/2" width="640" height="360" src="https://www.youtube.com/embed/cU6iRimuJbk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="682" data-id="71" src="/wp-content/uploads/2023/10/DSC_7919-1024x682.jpg" alt="" class="wp-image-71" srcset="/wp-content/uploads/2023/10/DSC_7919-1024x682.jpg 1024w, /wp-content/uploads/2023/10/DSC_7919-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_7919-768x511.jpg 768w, /wp-content/uploads/2023/10/DSC_7919-1536x1022.jpg 1536w, /wp-content/uploads/2023/10/DSC_7919-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="2017墨尔本春晚, 2/2" width="640" height="360" src="https://www.youtube.com/embed/80GwL17YnVE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="682" data-id="74" src="/wp-content/uploads/2023/10/DSC_7996-1024x682.jpg" alt="" class="wp-image-74" srcset="/wp-content/uploads/2023/10/DSC_7996-1024x682.jpg 1024w, /wp-content/uploads/2023/10/DSC_7996-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_7996-768x511.jpg 768w, /wp-content/uploads/2023/10/DSC_7996-1536x1022.jpg 1536w, /wp-content/uploads/2023/10/DSC_7996-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-7 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="408" data-id="214" src="/wp-content/uploads/2023/10/D-1024x408.jpg" alt="" class="wp-image-214" srcset="/wp-content/uploads/2023/10/D-1024x408.jpg 1024w, /wp-content/uploads/2023/10/D-300x120.jpg 300w, /wp-content/uploads/2023/10/D-768x306.jpg 768w, /wp-content/uploads/2023/10/D-1536x613.jpg 1536w, /wp-content/uploads/2023/10/D-2048x817.jpg 2048w, /wp-content/uploads/2023/10/D-18x7.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="682" data-id="73" src="/wp-content/uploads/2023/10/DSC_8006-1024x682.jpg" alt="" class="wp-image-73" srcset="/wp-content/uploads/2023/10/DSC_8006-1024x682.jpg 1024w, /wp-content/uploads/2023/10/DSC_8006-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_8006-768x511.jpg 768w, /wp-content/uploads/2023/10/DSC_8006-1536x1022.jpg 1536w, /wp-content/uploads/2023/10/DSC_8006-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="682" data-id="211" src="/wp-content/uploads/2023/10/DSC_7456-1024x682.jpg" alt="" class="wp-image-211" srcset="/wp-content/uploads/2023/10/DSC_7456-1024x682.jpg 1024w, /wp-content/uploads/2023/10/DSC_7456-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_7456-768x511.jpg 768w, /wp-content/uploads/2023/10/DSC_7456-1536x1022.jpg 1536w, /wp-content/uploads/2023/10/DSC_7456-2048x1363.jpg 2048w, /wp-content/uploads/2023/10/DSC_7456-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="682" data-id="76" src="/wp-content/uploads/2023/10/DSC_8279-1024x682.jpg" alt="" class="wp-image-76" srcset="/wp-content/uploads/2023/10/DSC_8279-1024x682.jpg 1024w, /wp-content/uploads/2023/10/DSC_8279-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_8279-768x511.jpg 768w, /wp-content/uploads/2023/10/DSC_8279-1536x1022.jpg 1536w, /wp-content/uploads/2023/10/DSC_8279-2048x1363.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="682" data-id="212" src="/wp-content/uploads/2023/10/DSC_7770-1024x682.jpg" alt="" class="wp-image-212" srcset="/wp-content/uploads/2023/10/DSC_7770-1024x682.jpg 1024w, /wp-content/uploads/2023/10/DSC_7770-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_7770-768x511.jpg 768w, /wp-content/uploads/2023/10/DSC_7770-1536x1022.jpg 1536w, /wp-content/uploads/2023/10/DSC_7770-2048x1363.jpg 2048w, /wp-content/uploads/2023/10/DSC_7770-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="408" data-id="75" src="/wp-content/uploads/2023/10/未标题_全景图1-1024x408.jpg" alt="" class="wp-image-75" srcset="/wp-content/uploads/2023/10/未标题_全景图1-1024x408.jpg 1024w, /wp-content/uploads/2023/10/未标题_全景图1-300x120.jpg 300w, /wp-content/uploads/2023/10/未标题_全景图1-768x306.jpg 768w, /wp-content/uploads/2023/10/未标题_全景图1-1536x613.jpg 1536w, /wp-content/uploads/2023/10/未标题_全景图1-2048x817.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="682" data-id="210" src="/wp-content/uploads/2023/10/DSC_7919-1024x682.jpg" alt="" class="wp-image-210" srcset="/wp-content/uploads/2023/10/DSC_7919-1024x682.jpg 1024w, /wp-content/uploads/2023/10/DSC_7919-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_7919-768x511.jpg 768w, /wp-content/uploads/2023/10/DSC_7919-1536x1022.jpg 1536w, /wp-content/uploads/2023/10/DSC_7919-2048x1363.jpg 2048w, /wp-content/uploads/2023/10/DSC_7919-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="406" data-id="77" src="/wp-content/uploads/2023/10/未标题_全景图2-1024x406.jpg" alt="" class="wp-image-77" srcset="/wp-content/uploads/2023/10/未标题_全景图2-1024x406.jpg 1024w, /wp-content/uploads/2023/10/未标题_全景图2-300x119.jpg 300w, /wp-content/uploads/2023/10/未标题_全景图2-768x304.jpg 768w, /wp-content/uploads/2023/10/未标题_全景图2-1536x608.jpg 1536w, /wp-content/uploads/2023/10/未标题_全景图2-2048x811.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="682" data-id="215" src="/wp-content/uploads/2023/10/DSC_7996-1024x682.jpg" alt="" class="wp-image-215" srcset="/wp-content/uploads/2023/10/DSC_7996-1024x682.jpg 1024w, /wp-content/uploads/2023/10/DSC_7996-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_7996-768x511.jpg 768w, /wp-content/uploads/2023/10/DSC_7996-1536x1022.jpg 1536w, /wp-content/uploads/2023/10/DSC_7996-2048x1363.jpg 2048w, /wp-content/uploads/2023/10/DSC_7996-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="682" data-id="213" src="/wp-content/uploads/2023/10/DSC_8006-1024x682.jpg" alt="" class="wp-image-213" srcset="/wp-content/uploads/2023/10/DSC_8006-1024x682.jpg 1024w, /wp-content/uploads/2023/10/DSC_8006-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_8006-768x511.jpg 768w, /wp-content/uploads/2023/10/DSC_8006-1536x1022.jpg 1536w, /wp-content/uploads/2023/10/DSC_8006-2048x1363.jpg 2048w, /wp-content/uploads/2023/10/DSC_8006-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="682" data-id="216" src="/wp-content/uploads/2023/10/DSC_8011-1024x682.jpg" alt="" class="wp-image-216" srcset="/wp-content/uploads/2023/10/DSC_8011-1024x682.jpg 1024w, /wp-content/uploads/2023/10/DSC_8011-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_8011-768x511.jpg 768w, /wp-content/uploads/2023/10/DSC_8011-1536x1022.jpg 1536w, /wp-content/uploads/2023/10/DSC_8011-2048x1363.jpg 2048w, /wp-content/uploads/2023/10/DSC_8011-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="682" data-id="217" src="/wp-content/uploads/2023/10/DSC_8279-1024x682.jpg" alt="" class="wp-image-217" srcset="/wp-content/uploads/2023/10/DSC_8279-1024x682.jpg 1024w, /wp-content/uploads/2023/10/DSC_8279-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_8279-768x511.jpg 768w, /wp-content/uploads/2023/10/DSC_8279-1536x1022.jpg 1536w, /wp-content/uploads/2023/10/DSC_8279-2048x1363.jpg 2048w, /wp-content/uploads/2023/10/DSC_8279-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="682" data-id="218" src="/wp-content/uploads/2023/10/DSC_8356-1024x682.jpg" alt="" class="wp-image-218" srcset="/wp-content/uploads/2023/10/DSC_8356-1024x682.jpg 1024w, /wp-content/uploads/2023/10/DSC_8356-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_8356-768x511.jpg 768w, /wp-content/uploads/2023/10/DSC_8356-1536x1022.jpg 1536w, /wp-content/uploads/2023/10/DSC_8356-2048x1363.jpg 2048w, /wp-content/uploads/2023/10/DSC_8356-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="623" height="1024" data-id="219" src="/wp-content/uploads/2023/10/DSC_8516-623x1024.jpg" alt="" class="wp-image-219" srcset="/wp-content/uploads/2023/10/DSC_8516-623x1024.jpg 623w, /wp-content/uploads/2023/10/DSC_8516-183x300.jpg 183w, /wp-content/uploads/2023/10/DSC_8516-768x1262.jpg 768w, /wp-content/uploads/2023/10/DSC_8516-935x1536.jpg 935w, /wp-content/uploads/2023/10/DSC_8516-1246x2048.jpg 1246w, /wp-content/uploads/2023/10/DSC_8516-7x12.jpg 7w, /wp-content/uploads/2023/10/DSC_8516-scaled.jpg 1558w" sizes="(max-width: 623px) 100vw, 623px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="768" data-id="220" src="/wp-content/uploads/2023/10/FullSizeRender-1024x768.jpeg" alt="" class="wp-image-220" srcset="/wp-content/uploads/2023/10/FullSizeRender-1024x768.jpeg 1024w, /wp-content/uploads/2023/10/FullSizeRender-300x225.jpeg 300w, /wp-content/uploads/2023/10/FullSizeRender-768x576.jpeg 768w, /wp-content/uploads/2023/10/FullSizeRender-1536x1152.jpeg 1536w, /wp-content/uploads/2023/10/FullSizeRender-2048x1536.jpeg 2048w, /wp-content/uploads/2023/10/FullSizeRender-16x12.jpeg 16w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="406" data-id="221" src="/wp-content/uploads/2023/10/未标题_全景图2-1024x406.jpg" alt="" class="wp-image-221" srcset="/wp-content/uploads/2023/10/未标题_全景图2-1024x406.jpg 1024w, /wp-content/uploads/2023/10/未标题_全景图2-300x119.jpg 300w, /wp-content/uploads/2023/10/未标题_全景图2-768x304.jpg 768w, /wp-content/uploads/2023/10/未标题_全景图2-1536x608.jpg 1536w, /wp-content/uploads/2023/10/未标题_全景图2-2048x811.jpg 2048w, /wp-content/uploads/2023/10/未标题_全景图2-18x7.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </figure>
 
 
@@ -183,31 +404,38 @@
 					<comments>/en/2015%e6%98%a5%e6%99%9a%e7%85%a7%e7%89%87/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubdate>Wed, 11 Oct 2023 14:29:17 +0000</pubdate>
+		<pubdate>Thu, 01 Jan 2015 00:00:17 +0000</pubdate>
 				<category><![CDATA[晚会演出]]></category>
+		<category><![CDATA[精彩看点]]></category>
 		<category><![CDATA[2015]]></category>
 		<guid ispermalink="false">/?p=42</guid>
 
-					<description><![CDATA[新赴澳演出海报 活动照片 节目单 登报记录]]></description>
+					<description><![CDATA[新赴澳演出海报 精彩瞬间 节目单 登报记录]]></description>
 										<content:encoded><![CDATA[
 <h3 class="wp-block-heading">新赴澳演出海报</h3>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="683" height="1024" src="/wp-content/uploads/2023/10/新赴澳演出海报600X900mm-683x1024.jpg" alt="" class="wp-image-47" srcset="/wp-content/uploads/2023/10/新赴澳演出海报600X900mm-683x1024.jpg 683w, /wp-content/uploads/2023/10/新赴澳演出海报600X900mm-200x300.jpg 200w, /wp-content/uploads/2023/10/新赴澳演出海报600X900mm-768x1152.jpg 768w, /wp-content/uploads/2023/10/新赴澳演出海报600X900mm-1024x1536.jpg 1024w, /wp-content/uploads/2023/10/新赴澳演出海报600X900mm-1366x2048.jpg 1366w, /wp-content/uploads/2023/10/新赴澳演出海报600X900mm.jpg 1701w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="683" height="1024" src="/wp-content/uploads/2023/10/新赴澳演出海报600X900mm-683x1024.jpg" alt="" class="wp-image-189" srcset="/wp-content/uploads/2023/10/新赴澳演出海报600X900mm-683x1024.jpg 683w, /wp-content/uploads/2023/10/新赴澳演出海报600X900mm-200x300.jpg 200w, /wp-content/uploads/2023/10/新赴澳演出海报600X900mm-768x1152.jpg 768w, /wp-content/uploads/2023/10/新赴澳演出海报600X900mm-1024x1536.jpg 1024w, /wp-content/uploads/2023/10/新赴澳演出海报600X900mm-1366x2048.jpg 1366w, /wp-content/uploads/2023/10/新赴澳演出海报600X900mm-8x12.jpg 8w, /wp-content/uploads/2023/10/新赴澳演出海报600X900mm.jpg 1701w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
 
 
 
-<h3 class="wp-block-heading">活动照片</h3>
+<h3 class="wp-block-heading">精彩瞬间</h3>
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-5 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="684" data-id="43" src="/wp-content/uploads/2023/10/RZP2798-Edit-Edit-copy-1024x684.jpeg" alt="" class="wp-image-43" srcset="/wp-content/uploads/2023/10/RZP2798-Edit-Edit-copy-1024x684.jpeg 1024w, /wp-content/uploads/2023/10/RZP2798-Edit-Edit-copy-300x200.jpeg 300w, /wp-content/uploads/2023/10/RZP2798-Edit-Edit-copy-768x513.jpeg 768w, /wp-content/uploads/2023/10/RZP2798-Edit-Edit-copy.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="2015墨尔本春晚精彩回顾－国际阳光艺术团主办" width="640" height="360" src="https://www.youtube.com/embed/4VAJhqOqE5Y?start=1&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="608" data-id="44" src="/wp-content/uploads/2023/10/01-1024x608.jpg" alt="" class="wp-image-44" srcset="/wp-content/uploads/2023/10/01-1024x608.jpg 1024w, /wp-content/uploads/2023/10/01-300x178.jpg 300w, /wp-content/uploads/2023/10/01-768x456.jpg 768w, /wp-content/uploads/2023/10/01-1536x912.jpg 1536w, /wp-content/uploads/2023/10/01-2048x1216.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-9 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="608" data-id="191" src="/wp-content/uploads/2023/10/Bcover-1024x608.jpg" alt="" class="wp-image-191" srcset="/wp-content/uploads/2023/10/Bcover-1024x608.jpg 1024w, /wp-content/uploads/2023/10/Bcover-300x178.jpg 300w, /wp-content/uploads/2023/10/Bcover-768x456.jpg 768w, /wp-content/uploads/2023/10/Bcover-1536x912.jpg 1536w, /wp-content/uploads/2023/10/Bcover-2048x1216.jpg 2048w, /wp-content/uploads/2023/10/Bcover-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="684" data-id="190" src="/wp-content/uploads/2023/10/B1-1024x684.jpeg" alt="" class="wp-image-190" srcset="/wp-content/uploads/2023/10/B1-1024x684.jpeg 1024w, /wp-content/uploads/2023/10/B1-300x200.jpeg 300w, /wp-content/uploads/2023/10/B1-768x513.jpeg 768w, /wp-content/uploads/2023/10/B1-18x12.jpeg 18w, /wp-content/uploads/2023/10/B1.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </figure>
 
 
@@ -228,12 +456,12 @@
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-7 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="640" height="893" data-id="48" src="/wp-content/uploads/2023/10/IMG_1337.jpg" alt="" class="wp-image-48" srcset="/wp-content/uploads/2023/10/IMG_1337.jpg 640w, /wp-content/uploads/2023/10/IMG_1337-215x300.jpg 215w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-11 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="640" height="893" data-id="193" src="/wp-content/uploads/2023/10/IMG_1337.jpg" alt="" class="wp-image-193" srcset="/wp-content/uploads/2023/10/IMG_1337.jpg 640w, /wp-content/uploads/2023/10/IMG_1337-215x300.jpg 215w, /wp-content/uploads/2023/10/IMG_1337-9x12.jpg 9w" sizes="(max-width: 640px) 100vw, 640px" /></figure>
 
 
 
-<figure class="wp-block-image size-full is-style-default"><img decoding="async" loading="lazy" width="988" height="622" data-id="49" src="/wp-content/uploads/2023/10/Screen-Shot-2014-12-30-at-8.18.33-pm.png" alt="" class="wp-image-49" srcset="/wp-content/uploads/2023/10/Screen-Shot-2014-12-30-at-8.18.33-pm.png 988w, /wp-content/uploads/2023/10/Screen-Shot-2014-12-30-at-8.18.33-pm-300x189.png 300w, /wp-content/uploads/2023/10/Screen-Shot-2014-12-30-at-8.18.33-pm-768x483.png 768w" sizes="(max-width: 988px) 100vw, 988px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="988" height="622" data-id="192" src="/wp-content/uploads/2023/10/Screen-Shot-2014-12-30-at-8.18.33-pm.png" alt="" class="wp-image-192" srcset="/wp-content/uploads/2023/10/Screen-Shot-2014-12-30-at-8.18.33-pm.png 988w, /wp-content/uploads/2023/10/Screen-Shot-2014-12-30-at-8.18.33-pm-300x189.png 300w, /wp-content/uploads/2023/10/Screen-Shot-2014-12-30-at-8.18.33-pm-768x483.png 768w, /wp-content/uploads/2023/10/Screen-Shot-2014-12-30-at-8.18.33-pm-18x12.png 18w" sizes="(max-width: 988px) 100vw, 988px" /></figure>
 </figure>
 ]]></content:encoded>
 					
@@ -248,12 +476,13 @@
 					<comments>/en/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubdate>Wed, 11 Oct 2023 12:45:08 +0000</pubdate>
+		<pubdate>Wed, 01 Jan 2014 00:00:08 +0000</pubdate>
 				<category><![CDATA[晚会演出]]></category>
+		<category><![CDATA[精彩看点]]></category>
 		<category><![CDATA[2014]]></category>
 		<guid ispermalink="false">/?p=1</guid>
 
-					<description><![CDATA[海报 现场回顾 活动照片]]></description>
+					<description><![CDATA[海报 精彩瞬间]]></description>
 										<content:encoded><![CDATA[
 <h3 class="wp-block-heading">海报</h3>
 
@@ -263,32 +492,29 @@
 
 
 
-<h3 class="wp-block-heading">现场回顾</h3>
+<h3 class="wp-block-heading">精彩瞬间</h3>
 
 
 
-<figure class="wp-block-video"><video controls src="/wp-content/uploads/2023/10/Sunny-Arts-promo-HD.mp4"></video></figure>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="2015墨尔本春晚预告及主办方：国际阳光艺术团2014元宵晚会回顾" width="640" height="360" src="https://www.youtube.com/embed/lSBo6VzmnJo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
 
 
 
-<h3 class="wp-block-heading">活动照片</h3>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-13 is-layout-flex wp-block-gallery-is-layout-flex">
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="684" data-id="185" src="/wp-content/uploads/2023/10/Acover-1024x684.jpg" alt="" class="wp-image-185" srcset="/wp-content/uploads/2023/10/Acover-1024x684.jpg 1024w, /wp-content/uploads/2023/10/Acover-300x200.jpg 300w, /wp-content/uploads/2023/10/Acover-768x513.jpg 768w, /wp-content/uploads/2023/10/Acover-1536x1025.jpg 1536w, /wp-content/uploads/2023/10/Acover-2048x1367.jpg 2048w, /wp-content/uploads/2023/10/Acover-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-9 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="684" data-id="29" src="/wp-content/uploads/2023/10/DSC_4034-1024x684.jpg" alt="" class="wp-image-29" srcset="/wp-content/uploads/2023/10/DSC_4034-1024x684.jpg 1024w, /wp-content/uploads/2023/10/DSC_4034-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_4034-768x513.jpg 768w, /wp-content/uploads/2023/10/DSC_4034-1536x1025.jpg 1536w, /wp-content/uploads/2023/10/DSC_4034-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="684" data-id="30" src="/wp-content/uploads/2023/10/DSC_4044-1024x684.jpg" alt="" class="wp-image-30" srcset="/wp-content/uploads/2023/10/DSC_4044-1024x684.jpg 1024w, /wp-content/uploads/2023/10/DSC_4044-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_4044-768x513.jpg 768w, /wp-content/uploads/2023/10/DSC_4044-1536x1025.jpg 1536w, /wp-content/uploads/2023/10/DSC_4044-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="684" data-id="184" src="/wp-content/uploads/2023/10/A1-1024x684.jpg" alt="" class="wp-image-184" srcset="/wp-content/uploads/2023/10/A1-1024x684.jpg 1024w, /wp-content/uploads/2023/10/A1-300x200.jpg 300w, /wp-content/uploads/2023/10/A1-768x513.jpg 768w, /wp-content/uploads/2023/10/A1-1536x1025.jpg 1536w, /wp-content/uploads/2023/10/A1-2048x1367.jpg 2048w, /wp-content/uploads/2023/10/A1-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </figure>
 ]]></content:encoded>
 					
 					<wfw:commentrss>/en/hello-world/feed/</wfw:commentrss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="/wp-content/uploads/2023/10/Sunny-Arts-promo-HD.mp4" length="109635577" type="video/mp4" />
-
+		
 			</item>
 	</channel>
 </rss>

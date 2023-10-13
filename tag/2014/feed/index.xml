@@ -12,13 +12,13 @@
 	<atom:link href="/tag/2014/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Thu, 12 Oct 2023 14:56:50 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Oct 2023 15:12:54 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/10/logo_true@0.1x.png</url>
@@ -33,12 +33,13 @@
 					<comments>/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 11 Oct 2023 12:45:08 +0000</pubDate>
+		<pubDate>Wed, 01 Jan 2014 00:00:08 +0000</pubDate>
 				<category><![CDATA[晚会演出]]></category>
+		<category><![CDATA[精彩看点]]></category>
 		<category><![CDATA[2014]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[海报 现场回顾 活动照片]]></description>
+					<description><![CDATA[海报 精彩瞬间]]></description>
 										<content:encoded><![CDATA[
 <h3 class="wp-block-heading">海报</h3>
 
@@ -48,32 +49,29 @@
 
 
 
-<h3 class="wp-block-heading">现场回顾</h3>
+<h3 class="wp-block-heading">精彩瞬间</h3>
 
 
 
-<figure class="wp-block-video"><video controls src="/wp-content/uploads/2023/10/Sunny-Arts-promo-HD.mp4"></video></figure>
-
-
-
-<h3 class="wp-block-heading">活动照片</h3>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="2015墨尔本春晚预告及主办方：国际阳光艺术团2014元宵晚会回顾" width="640" height="360" src="https://www.youtube.com/embed/lSBo6VzmnJo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div></figure>
 
 
 
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="684" data-id="29" src="/wp-content/uploads/2023/10/DSC_4034-1024x684.jpg" alt="" class="wp-image-29" srcset="/wp-content/uploads/2023/10/DSC_4034-1024x684.jpg 1024w, /wp-content/uploads/2023/10/DSC_4034-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_4034-768x513.jpg 768w, /wp-content/uploads/2023/10/DSC_4034-1536x1025.jpg 1536w, /wp-content/uploads/2023/10/DSC_4034-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" fetchpriority="high" width="1024" height="684" data-id="185" src="/wp-content/uploads/2023/10/Acover-1024x684.jpg" alt="" class="wp-image-185" srcset="/wp-content/uploads/2023/10/Acover-1024x684.jpg 1024w, /wp-content/uploads/2023/10/Acover-300x200.jpg 300w, /wp-content/uploads/2023/10/Acover-768x513.jpg 768w, /wp-content/uploads/2023/10/Acover-1536x1025.jpg 1536w, /wp-content/uploads/2023/10/Acover-2048x1367.jpg 2048w, /wp-content/uploads/2023/10/Acover-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="684" data-id="30" src="/wp-content/uploads/2023/10/DSC_4044-1024x684.jpg" alt="" class="wp-image-30" srcset="/wp-content/uploads/2023/10/DSC_4044-1024x684.jpg 1024w, /wp-content/uploads/2023/10/DSC_4044-300x200.jpg 300w, /wp-content/uploads/2023/10/DSC_4044-768x513.jpg 768w, /wp-content/uploads/2023/10/DSC_4044-1536x1025.jpg 1536w, /wp-content/uploads/2023/10/DSC_4044-2048x1367.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="684" data-id="184" src="/wp-content/uploads/2023/10/A1-1024x684.jpg" alt="" class="wp-image-184" srcset="/wp-content/uploads/2023/10/A1-1024x684.jpg 1024w, /wp-content/uploads/2023/10/A1-300x200.jpg 300w, /wp-content/uploads/2023/10/A1-768x513.jpg 768w, /wp-content/uploads/2023/10/A1-1536x1025.jpg 1536w, /wp-content/uploads/2023/10/A1-2048x1367.jpg 2048w, /wp-content/uploads/2023/10/A1-18x12.jpg 18w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 </figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
-		<enclosure url="/wp-content/uploads/2023/10/Sunny-Arts-promo-HD.mp4" length="109635577" type="video/mp4" />
-
+		
 			</item>
 	</channel>
 </rss>

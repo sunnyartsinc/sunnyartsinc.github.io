@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>即将到来 &#8211; 阳光艺术团 Sunny Arts</title>
+	<atom:link href="/category/%E5%8D%B3%E5%B0%86%E5%88%B0%E6%9D%A5/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 13 Oct 2023 15:01:31 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/10/logo_true@0.1x.png</url>
+	<title>即将到来 &#8211; 阳光艺术团 Sunny Arts</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>2024 龙年春晚</title>
+		<link>/2024-%e9%be%99%e5%b9%b4%e6%98%a5%e6%99%9a/</link>
+					<comments>/2024-%e9%be%99%e5%b9%b4%e6%98%a5%e6%99%9a/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2023 14:17:52 +0000</pubDate>
+				<category><![CDATA[即将到来]]></category>
+		<category><![CDATA[晚会演出]]></category>
+		<category><![CDATA[精彩看点]]></category>
+		<category><![CDATA[2024]]></category>
+		<guid isPermaLink="false">/?p=178</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-file"><object class="wp-block-file__embed" data="/wp-content/uploads/2023/10/明天会更好-2024龙年春晚-V10.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="嵌入 明天会更好-2024龙年春晚-V10"></object><a id="wp-block-file--media-7aa4d02b-0e9a-47a4-9ae0-603827236435" href="/wp-content/uploads/2023/10/明天会更好-2024龙年春晚-V10.pdf">明天会更好-2024龙年春晚-V10</a><a href="/wp-content/uploads/2023/10/明天会更好-2024龙年春晚-V10.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-7aa4d02b-0e9a-47a4-9ae0-603827236435">下载</a></div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024-%e9%be%99%e5%b9%b4%e6%98%a5%e6%99%9a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
